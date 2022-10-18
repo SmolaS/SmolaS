@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @SmolaS
 - 👀 I’m interested in gaming, ww2 history, aviation, cars and motorsport.
-- 🌱 I’m currently learning EiT on AGH.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently studying on EiT AGH Cracow.
 - 📫 How to reach me SmolaS #7745 on Discord.
 
 <!---
