@@ -3,9 +3,9 @@
 - 🌱 I’m currently studying on EiT AGH Cracow.
 - 🎮 Member of AGH Code Industry.
 - 📫 How to reach me:
-  linkedin.com/in/szymonsmoła
-  szymeksmola@gmail.com
-  SmolaS #7745 on Discord
+-  linkedin.com/in/szymonsmoła
+-  szymeksmola@gmail.com
+-  SmolaS #7745 on Discord
 
 
 
