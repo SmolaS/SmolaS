@@ -6,7 +6,10 @@
 -  linkedin.com/in/szymonsmoła
 -  szymeksmola@gmail.com
 -  SmolaS #7745 on Discord
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/szymonsmoła/?locale=en_US"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+</p>
 
 
 <!---
