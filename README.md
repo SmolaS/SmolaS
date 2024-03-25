@@ -1,5 +1,5 @@
 - 👋 Hi, I’m **@SmolaS**.
-- 👨‍🏛 I am currently a student of **AGH**.
+- 🏫 I am currently a student of **AGH**.
 - 💻 Major is **Electronics and Telecommunications**.
 - 🌱 I'm currently learning **Netowrking and Game development**.
 - 🎮 Member of **AGH Code Industry**.
