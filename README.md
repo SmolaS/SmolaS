@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @SmolaS
-- 👀 I’m interested in gaming, ww2 history, aviation, military and motorsport.
-- 🌱 I’m currently studying Elecronics and Telecomunications on AGH in Kraków.
-- 🎮 Member of AGH Code Industry.
-- 📫 How to reach me:
+- 👋 Hi, I’m **@SmolaS**.
+- 👨‍🏛 I am currently a student of **AGH**.
+- 💻 Major is **Electronics and Telecomunications**.
+- 🌱 I'm currently learning **Game development and Web developement**.
+- 🎮 Member of **AGH Code Industry**.
+- ⚽My hobbies are **football and cars**.
+- 💼 I also work as an **summer lifeguard**.
+- 💬 If you have any questions, **just ask me**.
 <div align='center'>
   <p align='left'>
     <a href="https://www.linkedin.com/in/szymonsmoła/?locale=en_US"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
