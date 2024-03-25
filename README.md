@@ -3,7 +3,7 @@
 - 🌱 I’m currently studying Elecronics and Telecomunications on AGH in Kraków.
 - 🎮 Member of AGH Code Industry.
 - 📫 How to reach me:
--  linkedin.com/in/szymonsmoła
+-   ![image](https://github.com/SmolaS/SmolaS/assets/116088570/ac6ffc34-9e53-468b-992e-1fa419704a23) linkedin.com/in/szymonsmoła
 -  szymeksmola@gmail.com
 -  SmolaS #7745 on Discord
 
