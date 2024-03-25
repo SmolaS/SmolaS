@@ -1,18 +1,12 @@
 - 👋 Hi, I’m **@SmolaS**.
 - 👨‍🏛 I am currently a student of **AGH**.
-- 💻 Major is **Electronics and Telecomunications**.
-- 🌱 I'm currently learning **Game development and Web developement**.
+- 💻 Major is **Electronics and Telecommunications**.
+- 🌱 I'm currently learning **Netowrking and Game development**.
 - 🎮 Member of **AGH Code Industry**.
-- ⚽My hobbies are **football and cars**.
+- ⚽ My hobbies are **football and fast cars**.
 - 🛟 I also work as a **summer lifeguard**.
 - 💬 If you have any questions, **just ask me**:
-<div align='center'>
-  <p align='left'>
-    <a href="https://www.linkedin.com/in/szymonsmoła/?locale=en_US"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-    <a href="mailto:szymeksmola@gmail.com"><img height="30" src="https://th.bing.com/th/id/OIP.9sT4UWsRfFiy6vPydv3_-QHaHO?pid=ImgDet&rs=1"></a>&nbsp;&nbsp;
-    <a href="https://open.spotify.com/user/11163503134?si=a1ed9f07a9e7497f" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/png/spotify.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  </p>
-</div>
+ [<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="3.5%"/>](https://steamcommunity.com/id/mongocds/)  &nbsp; [<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="3.5%"/>](discordapp.com/users/125285976376475648)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/szymonsmoła/?locale=en_US)  &nbsp; <a href="mailto:szymeksmola@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SmolaS&theme=dark&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 <!---
