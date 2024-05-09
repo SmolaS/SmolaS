@@ -4,7 +4,7 @@
 - 🌱 I'm currently learning **Netowrking and Game development**.
 - 🎮 Member of **AGH Code Industry**.
 - ⚽ My hobbies are **football and fast cars**.
-- 🛟 I also work as a **summer lifeguard**.
+- 🏊‍♂️ I also work as a **summer lifeguard**.
 
 📞 ***Connect with me:*** 
 
