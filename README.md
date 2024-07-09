@@ -1,7 +1,7 @@
 - 👋 Hi, I’m **@SmolaS**.
 - 🏫 I am currently a student of **AGH**.
 - 💻 Major is **Electronics and Telecommunications**.
-- 🌱 I'm currently learning **Networking and Game development**.
+- 🌱 I'm currently learning **Networking, Web and Game development**.
 - 🎮 Member of **AGH Code Industry**.
 - ⚽ My hobbies are **football and fast cars**.
 - 🏊‍♂️ I also work as a **lifeguard**.
