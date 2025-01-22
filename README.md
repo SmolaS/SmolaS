@@ -12,8 +12,7 @@
 
 📈 ***GitHub Stats:***
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SmolaS&theme=great-gatsby)](https://git.io/streak-stats)
-
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=SmolaS&theme=great-gatsby" alt="GitHub Streak" /></a>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SmolaS&theme=great-gatsby&show_icons=true&hide_border=true&layout=compact)
 <!---
 SmolaS/SmolaS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
