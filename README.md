@@ -12,6 +12,8 @@
 
 📈 ***GitHub Stats:***
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SmolaS)](https://github.com/anuraghazra/github-readme-stats)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SmolaS&theme=great-gatsby&show_icons=true&hide_border=true&layout=compact)
 <!---
 SmolaS/SmolaS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
