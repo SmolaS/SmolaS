@@ -12,7 +12,7 @@
 
 📈 ***GitHub Stats:***
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SmolaS)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SmolaS&theme=great-gatsby)](https://git.io/streak-stats)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SmolaS&theme=great-gatsby&show_icons=true&hide_border=true&layout=compact)
 <!---
