@@ -1,9 +1,9 @@
 - 👋 Hi, I’m **@SmolaS**.
-- 🏫 I am currently a student of **AGH**.
-- 💻 Major is **Electronics and Telecommunications**.
-- 🌱 I'm currently learning **Networking, Web and Game development**.
+- 🏫 I am currently a student of **AGH University of Kraków**.
+- 💻 I’m pursuing a Bachelor of Engineering in **Electronics and Telecommunications**.
+- 🌱 I'm currently learning **Networking, Programming and Game development**.
 - 🎮 Member of **AGH Code Industry**.
-- ⚽ My hobbies are **football and fast cars**.
+- ⚽ My hobbies include **football and fast cars**.
 - 🏊‍♂️ I also work as a **lifeguard**.
 
 📞 ***Connect with me:*** 
