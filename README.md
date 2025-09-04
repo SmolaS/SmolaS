@@ -12,10 +12,21 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=SmolaS&icon=0&color=13)](https://visitcount.itsvg.in)
 # 📞 Connect with me:
-[![Website](https://img.icons8.com/color/48/000000/home--v1.png)](https://smolas.github.io/) &nbsp;
-[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/szymonsmoła/?locale=en_US) &nbsp;
-[![Discord](https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg)](https://discordapp.com/users/125285976376475648) &nbsp;
-[![Steam](https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg)](https://steamcommunity.com/id/SmolaS/) &nbsp;
-[![Email](https://img.icons8.com/fluent/48/000000/gmail.png)](mailto:szymeksmola@gmail.com)
+<a href="https://smolas.github.io/">
+  <img src="https://img.icons8.com/color/48/000000/home--v1.png" width="32" height="32"/>
+</a> &nbsp;
+<a href="https://www.linkedin.com/in/szymonsmoła/?locale=en_US">
+  <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="32" height="32"/>
+</a> &nbsp;
+<a href="https://discordapp.com/users/125285976376475648">
+  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="32" height="32"/>
+</a> &nbsp;
+<a href="https://steamcommunity.com/id/SmolaS/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="32" height="32"/>
+</a> &nbsp;
+<a href="mailto:szymeksmola@gmail.com">
+  <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="32" height="32"/>
+</a>
+
 
 
