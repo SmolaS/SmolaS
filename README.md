@@ -12,21 +12,28 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=SmolaS&icon=0&color=13)](https://visitcount.itsvg.in)
 # 📞 Connect with me:
-<a href="https://smolas.github.io/">
-  <img src="https://img.icons8.com/color/48/000000/home--v1.png" width="32" height="32"/>
-</a> &nbsp;
-<a href="https://www.linkedin.com/in/szymonsmoła/?locale=en_US">
-  <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="32" height="32"/>
-</a> &nbsp;
-<a href="https://discordapp.com/users/125285976376475648">
-  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="32" height="32"/>
-</a> &nbsp;
-<a href="https://steamcommunity.com/id/SmolaS/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="32" height="32"/>
-</a> &nbsp;
-<a href="mailto:szymeksmola@gmail.com">
-  <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="32" height="32"/>
-</a>
+<div style="text-align:center; margin:20px 0;">
+  <hr style="display:inline-block; width:30%; margin-right:10px; vertical-align:middle; border:1px solid #ccc;">
+  <span style="vertical-align:middle; font-weight:bold;">Connect with me</span>
+  <hr style="display:inline-block; width:30%; margin-left:10px; vertical-align:middle; border:1px solid #ccc;">
+</div>
 
+<div style="text-align:center; margin-top:10px;">
+  <a href="https://smolas.github.io/" style="text-decoration:none; margin:0 8px;">
+    <img src="https://img.icons8.com/color/48/000000/home--v1.png" width="32" height="32"/>
+  </a>
+  <a href="https://www.linkedin.com/in/szymonsmoła/?locale=en_US" style="text-decoration:none; margin:0 8px;">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="32" height="32"/>
+  </a>
+  <a href="https://discordapp.com/users/125285976376475648" style="text-decoration:none; margin:0 8px;">
+    <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="32" height="32"/>
+  </a>
+  <a href="https://steamcommunity.com/id/SmolaS/" style="text-decoration:none; margin:0 8px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="32" height="32"/>
+  </a>
+  <a href="mailto:szymeksmola@gmail.com" style="text-decoration:none; margin:0 8px;">
+    <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="32" height="32"/>
+  </a>
+</div>
 
 
