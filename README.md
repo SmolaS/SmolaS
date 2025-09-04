@@ -12,13 +12,9 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=SmolaS&icon=0&color=13)](https://visitcount.itsvg.in)
 # 📞 Connect with me:
-<div style="text-align:center; margin:20px 0;">
   <hr style="display:inline-block; width:30%; margin-right:10px; vertical-align:middle; border:1px solid #ccc;">
   <span style="vertical-align:middle; font-weight:bold;">Connect with me</span>
   <hr style="display:inline-block; width:30%; margin-left:10px; vertical-align:middle; border:1px solid #ccc;">
-</div>
-
-<div style="text-align:center; margin-top:10px;">
   <a href="https://smolas.github.io/" style="text-decoration:none; margin:0 8px;">
     <img src="https://img.icons8.com/color/48/000000/home--v1.png" width="32" height="32"/>
   </a>
@@ -34,6 +30,5 @@
   <a href="mailto:szymeksmola@gmail.com" style="text-decoration:none; margin:0 8px;">
     <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="32" height="32"/>
   </a>
-</div>
 
 
