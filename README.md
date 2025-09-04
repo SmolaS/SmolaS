@@ -11,8 +11,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=SmolaS&icon=0&color=13)](https://visitcount.itsvg.in)
-
-📞 ***Connect with me:*** 
-
+# 📞 Connect with me:
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/szymonsmoła/?locale=en_US)  &nbsp; [<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="3.5%"/>](https://discordapp.com/users/125285976376475648)  &nbsp; [<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="3.5%"/>](https://steamcommunity.com/id/SmolaS/)  &nbsp; <a href="mailto:szymeksmola@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"  />
 
