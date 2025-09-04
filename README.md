@@ -12,21 +12,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=SmolaS&icon=0&color=13)](https://visitcount.itsvg.in)
 # 📞 Connect with me:
-  <span style="vertical-align:middle; font-weight:bold;">Connect with me</span>
-  <a href="https://smolas.github.io/" style="text-decoration:none; margin:0 8px;">
-    <img src="https://img.icons8.com/color/48/000000/home--v1.png" width="32" height="32"/>
-  </a>
-  <a href="https://www.linkedin.com/in/szymonsmoła/?locale=en_US" style="text-decoration:none; margin:0 8px;">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="32" height="32"/>
-  </a>
-  <a href="https://discordapp.com/users/125285976376475648" style="text-decoration:none; margin:0 8px;">
-    <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="32" height="32"/>
-  </a>
-  <a href="https://steamcommunity.com/id/SmolaS/" style="text-decoration:none; margin:0 8px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="32" height="32"/>
-  </a>
-  <a href="mailto:szymeksmola@gmail.com" style="text-decoration:none; margin:0 8px;">
-    <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="32" height="32"/>
-  </a>
-
+<a href="https://smolas.github.io/" style="text-decoration:none;"> <img src="https://img.icons8.com/color/48/000000/home--v1.png" width="32" height="32"/> </a> &nbsp; <a href="https://www.linkedin.com/in/szymonsmoła/?locale=en_US" style="text-decoration:none;"> <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="32" height="32"/> </a> &nbsp; <a href="https://discordapp.com/users/125285976376475648" style="text-decoration:none;"> <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="32" height="32"/> </a> &nbsp; <a href="https://steamcommunity.com/id/SmolaS/" style="text-decoration:none;"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="32" height="32"/> </a> &nbsp; <a href="mailto:szymeksmola@gmail.com" style="text-decoration:none;"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="32" height="32"/> </a>
 
